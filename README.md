@@ -1,1 +1,1 @@
-# MT-CMP-Atlas
+# Mouse tissue-CMP-Atlas
